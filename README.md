@@ -36,4 +36,24 @@ Jogo de SUDOKU
 Escreva um código que gere um jogo de SUDOKU aleatório, permitindo ao usuárioa
 utilizaçãode uma dica a cada jogada e detectandoa situaçãode vitória.
 
+### Características:
+
+- Linguagem: Node/JavaScript
+
+### Como editar:
+
+- `npm install` - Instalar as dependências
+
+- `npm run build` - Transpilar o projeto e gerar os arquivos `./dist/bundle.js` e `./dist/server.js`
+
+  - ou `npm run watch` - Transpilar o projeto, ouvir as mudanças nos arquivos e os arquivos `./dist/bundle.js` e `./dist/server.js`
+
+---
+
+### Como rodar:
+
+- `npm run server` - Rodar o servidor
+
+- Acessar o link `http://localhost:3333/`
+
 ---

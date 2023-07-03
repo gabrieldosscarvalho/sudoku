@@ -1,0 +1,8 @@
+{
+    "verbose": true,
+    "watch": [
+        "dist/",
+        "public/"
+    ],
+    "ext": "js, css, html"
+}

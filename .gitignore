@@ -1,0 +1,22 @@
+package-lock*
+
+# API keys and secrets
+.env
+
+# Dependency directory
+node_modules
+
+# Editors
+.idea
+*.iml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Ignore built ts files
+dist/**/*
+resolvers/node-two-phase-algorithm/tables/**/*
+!resolvers/node-two-phase-algorithm/node_modules
+!dist/bundle.js
+!dist/server.js
